@@ -1,0 +1,7 @@
+streamlit
+tweepy
+pandas
+matplotlib
+wordcloud
+python-dotenv
+Sastrawi
